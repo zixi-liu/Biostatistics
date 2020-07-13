@@ -1,0 +1,16 @@
+1. Intro
+1.1 Types of Models
+1) designed experiments 
+2) sample surveys
+3) observational studies
+- factor, levels, effects (different levels of a factor)
+
+1.2 Statistical Models
+- Two Parts:
+1) relating response to all explanatory variables
+2) description of the probability distribution assumed to characterize random variation affecting observed response.
+- means model
+Effect of drug A as αΑ : μΑ = μ + αΑ  
+Effects Model : YA = μ + αΑ + e
+Over-parameterized model : sum to zero constraint if number of observations per treatment is zero.
+
