@@ -11,6 +11,19 @@
 2) description of the probability distribution assumed to characterize random variation affecting observed response.
 - means model
 Effect of drug A as αΑ : μΑ = μ + αΑ  
-Effects Model : YA = μ + αΑ + e
+Effects Model : YA = μ + αΑ + e - ONE WAY ANOVA
 Over-parameterized model : sum to zero constraint if number of observations per treatment is zero.
+- Completely randomized design
+Linear regression with Yij = μ + eij
+- Response does not have normal dist
+Yij ~ Binomial(πi, nij)
+πi is the prob of a subject showing improvement when treated with drug i.
 
+1.3 Fixed and Random Models
+difference between two sample means is estimate of diff between two population means
+2s^2/n
+Var[Yij] = Var[μ + ai + eij] = σα^2 + σ^2
+
+1.4 Mixed Models
+
+1.5 Typical Studies and the Modeling Issues 
