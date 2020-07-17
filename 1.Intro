@@ -27,3 +27,7 @@ Var[Yij] = Var[μ + ai + eij] = σα^2 + σ^2
 1.4 Mixed Models
 
 1.5 Typical Studies and the Modeling Issues 
+Mixed models mainly three approaches to variance component estimation;
+(1) based on expected mean squares from analysis of variance (ANOVA)
+(2) maximum likelihood (ML)
+(3) restricted 
