@@ -1,2 +1,2 @@
 # Biostatistics
-My biostatistics works at JHU.
+My biostatistics works.
